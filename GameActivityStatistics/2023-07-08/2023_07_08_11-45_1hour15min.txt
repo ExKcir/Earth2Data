@@ -1,0 +1,21 @@
+Time Elapsed: 1h 16m 3s
+
+Total activities: 55144
+Visible user activities: 18339
+Anonymous activities: 36805
+Unique Users: 1178
+
+Raids launched: 34990
+Cydroids sent to raids: 37698
+Cydroids charged: 3850
+E-ther dispensed: 21227.17
+E-ther detected: 18203.12
+Jewels collected: 1213
+Jewels crafted: 90
+Jewels sold: 227
+Holobuildings created: 101
+T1 properties bought: 58
+T2 properties bought: 13
+T1 tiles bought: 58
+T2 tiles bought: 87
+Bids accepted: 0
