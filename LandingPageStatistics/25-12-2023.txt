@@ -7,12 +7,3 @@ E-ther Collected past 24 hours: 1,654,373
 Bids Made Total: 1,879,361
 Bids rejected Total: 329,156
 Total Holobuidlings Built: 1,076,767
-Circulating supply of Essence: 170,899,639
-Number of Jewels circulating: 40,208,041
-Number of Jewel Mentar Slots: 26,640,068
-No. of Tiles purchased: 115,574,718
-Essence Spent in past 24 hours: 20,542
-E-ther Collected past 24 hours: 1,654,373
-Bids Made Total: 1,879,361
-Bids rejected Total: 329,156
-Total Holobuidlings Built: 1,076,767
