@@ -1,0 +1,20 @@
+Number of Jewels circulating: 43,567,763
+Total Tier 1 Jewels Circulation: 39,420,736
+Total Tier 2 Jewels Circulation: 1,704,261
+Total Tier 3 Jewels Circulation: 2,442,766
+Total Tier 1 Jewels Mined: 71,468,118
+Number of Jewel Mentar Slots: 26,927,465
+Total No. of Tiles purchased: 121,323,693
+No. of T1 & T2 Tiles purchased: 115,403,238
+No. of T3 Tiles purchased: 5,920,455
+Circulating supply of Essence: 194,081,827
+E-ther Collected past 24 hours: 1,620,086
+Bids Made Total: 1,993,393
+Bids rejected Total: 354,390
+Total Holobuildings Built: 1,170,472
+No. of Cydroids: 2,366,442
+No. of Civilians: 1,373,315
+No. of Raid Commanders: 375,623
+No. of E-ther Reckoners: 380,898
+No. of Cydroid Technicians: 382,942
+No. of Geologists: 233,852
