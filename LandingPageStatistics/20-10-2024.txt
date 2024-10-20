@@ -1,0 +1,23 @@
+984,421,148: Max Supply (minus burnt tokens)
+311,145,376: Minted Tokens
+15,578,852: Burnt Tokens
+67,342,424: No. of T1 Tiles purchased
+49,681,687: No. of T2 Tiles purchased
+7,312,070: No. of T3 Tiles purchased
+2,137,464: Bids Made Total
+378,140: Bids rejected Total
+1,812,364: No. of Civilians
+500,000: No. of Cydroid Technicians
+2,621,801: No. of Cydroids
+500,000: No. of E-ther Reckoners
+1,629,792: E-ther Collected past 24 hours
+312,364: No. of Geologists
+1,232,669: Total Holobuildings Built
+52,151,686: Number of Jewels circulating
+27,834,995: Number of Jewel Mentar Slots
+500,000: No. of Raid Commanders
+87,969,748: Total Tier 1 Jewels Mined
+47,577,338: Total Tier 1 Jewels Circulation
+1,737,035: Total Tier 2 Jewels Circulation
+2,837,313: Total Tier 3 Jewels Circulation
+124,336,181: Total No. of Tiles purchased
